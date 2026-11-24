@@ -6,6 +6,17 @@
 
 [GDD v4.1 통합본 요약](docs/GAME_DESIGN.md) · [시연 영상](https://youtu.be/G9FgYX6wWyw) · [게임 실행](#게임-실행) · [Unity 데모 실행](#unity-데모-실행) · [공개 C# 소스](Source/Assets/01_Scripts) · [코드 안내](docs/CODE_GUIDE.md) · [AI 활용 사례](#ai-활용-사례) · [검증 기록](#검증-기록)
 
+## 포트폴리오 문서
+
+[포트폴리오 PDF 열기](docs/portfolio/Starlight_Chronicles_Portfolio.pdf) · [AI 포트폴리오 PPTX 다운로드](docs/portfolio/Starlight_Chronicles_AI_Portfolio.pptx?raw=true)
+
+게임 흐름과 주요 기능, Codex를 활용한 개발용 에디터 도구 제작, 저장·복원 문제 해결, AI 배경·전투 애니메이션 제작, 협동 전투 구현을 정리한 발표 자료입니다.
+
+| 자료 | 형식 | 링크 |
+| --- | --- | --- |
+| Starlight Chronicles 포트폴리오 | PDF · 웹 열람 | [열기](docs/portfolio/Starlight_Chronicles_Portfolio.pdf) |
+| Starlight Chronicles AI 포트폴리오 | PowerPoint | [PPTX 다운로드](docs/portfolio/Starlight_Chronicles_AI_Portfolio.pptx?raw=true) |
+
 ## 게임 실행
 
 [Windows ZIP 다운로드](https://github.com/whtjdgh1931/starlight-chronicles-ai-portfolio/releases/download/portfolio-demo-v1/Starlight-Chronicles-Windows.zip) · [릴리스 portfolio-demo-v1](https://github.com/whtjdgh1931/starlight-chronicles-ai-portfolio/releases/tag/portfolio-demo-v1)
@@ -23,7 +34,7 @@
 | 기획·개발 | 조성호. 게임 규칙과 플레이 기대 동작, 개발 범위, 검증 기준 설정 |
 | 개발 환경 | Windows, Unity 6000.4.8f1, C#, Git, Codex |
 | 사용 기술 | Unity Netcode for GameObjects, Lobby·Relay, Google Sheets 기반 데이터 로딩 |
-| 공개 자료 | GDD v4.1 통합본 요약, Windows 실행 빌드, C# 소스 300개, 구현 해설, 독립 Unity 데모, 검증 기록 |
+| 공개 자료 | 포트폴리오 PDF·PPTX, GDD v4.1 통합본 요약, Windows 실행 빌드, C# 소스 300개, 구현 해설, 독립 Unity 데모, 검증 기록 |
 
 ## AI 활용 사례
 
