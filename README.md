@@ -4,7 +4,7 @@
 
 몬스터를 사냥해 장비를 얻고, 장착하거나 강화한 뒤 혼자 또는 다른 플레이어와 보스에 도전합니다. 전투와 성장 흐름, 협동 플레이, 캐릭터 저장을 구현했습니다. 개발 과정에서 Codex를 활용해 기존 코드의 영향을 조사하고, 기능 구현과 검증 도구 제작을 진행했습니다.
 
-[게임 실행](#게임-실행) · [Unity 데모 실행](#unity-데모-실행) · [공개 C# 소스](https://github.com/whtjdgh1931/starlight-chronicles-code-samples/tree/main/Source/Assets/01_Scripts) · [AI 활용 사례](#ai-활용-사례) · [검증 기록](#검증-기록)
+[게임 기획 요약](docs/GAME_DESIGN.md) · [게임 실행](#게임-실행) · [Unity 데모 실행](#unity-데모-실행) · [공개 C# 소스](https://github.com/whtjdgh1931/starlight-chronicles-code-samples/tree/main/Source/Assets/01_Scripts) · [AI 활용 사례](#ai-활용-사례) · [검증 기록](#검증-기록)
 
 ## 게임 실행
 
@@ -23,7 +23,7 @@
 | 기획·개발 | 조성호. 게임 규칙과 플레이 기대 동작, 개발 범위, 검증 기준 설정 |
 | 개발 환경 | Windows, Unity 6000.4.8f1, C#, Git, Codex |
 | 사용 기술 | Unity Netcode for GameObjects, Lobby·Relay, Google Sheets 기반 데이터 로딩 |
-| 공개 자료 | Windows 실행 빌드, 공개 C# 소스, AI 활용 사례, 독립 Unity 데모 |
+| 공개 자료 | 게임 기획 요약, Windows 실행 빌드, 공개 C# 소스, AI 활용 사례, 독립 Unity 데모 |
 
 ## AI 활용 사례
 
