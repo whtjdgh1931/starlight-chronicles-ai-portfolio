@@ -2,7 +2,7 @@
 
 **조성호 · 1인 기획·개발 · Windows 2D 횡스크롤 액션 RPG**
 
-2026년 7월 `Project Maple Legacy` GDD v4.1 개정 부록에서 정한 성장·아이템 규칙을 바탕으로, 현재 프로젝트의 플레이 흐름과 주요 규칙을 정리했습니다.
+2026년 7월 `Project Maple Legacy` GDD v4.1 개정 부록에서 정한 성장·아이템 규칙을 바탕으로, 현재 프로젝트의 플레이 흐름과 주요 규칙을 정리했습니다. [2026년 7월 GDD v4.1 개정 부록](Project_Maple_Legacy_GDD_v4_1_Amendment.md)
 
 ## 핵심 경험
 
